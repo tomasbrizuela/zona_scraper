@@ -1,0 +1,20 @@
+{
+  "name": "zonaprop",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^5.1.0",
+    "got-scraping": "^4.1.1",
+    "zonaprop": "file:"
+  },
+  "type": "module"
+}
