@@ -43,5 +43,4 @@ async function scrapePage(url, retries = 0) {
     }
 }
 
-scrapePage("https://www.zonaprop.com.ar/propiedades/clasificado/alclapin-departamento-en-alquiler-2-amb-caballito-55919390.html")
 export default scrapePage
